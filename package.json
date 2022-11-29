@@ -23,7 +23,7 @@
         "openfin-cli"
     ],
     "dependencies": {
-        "axios": "^0.21.1",
+        "axios": "^1.2.0",
         "hadouken-js-adapter": "^17.54.32",
         "meow": "^7.1.1",
         "node-machine-id": "^1.1.12",
