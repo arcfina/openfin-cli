@@ -24,6 +24,7 @@
     ],
     "dependencies": {
         "axios": "^0.21.1",
+        "hadouken-js-adapter": "^17.54.32",
         "meow": "^7.1.1",
         "node-machine-id": "^1.1.12",
         "openfin-adapter": "^20.62.4"
